@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/coffeeLoverTully/static/css/main.df78a8c9.chunk.css",
-    "main.js": "/coffeeLoverTully/static/js/main.7db306bc.chunk.js",
-    "main.js.map": "/coffeeLoverTully/static/js/main.7db306bc.chunk.js.map",
-    "runtime-main.js": "/coffeeLoverTully/static/js/runtime-main.9089744b.js",
-    "runtime-main.js.map": "/coffeeLoverTully/static/js/runtime-main.9089744b.js.map",
-    "static/js/2.c60b430a.chunk.js": "/coffeeLoverTully/static/js/2.c60b430a.chunk.js",
-    "static/js/2.c60b430a.chunk.js.map": "/coffeeLoverTully/static/js/2.c60b430a.chunk.js.map",
-    "index.html": "/coffeeLoverTully/index.html",
-    "precache-manifest.8fe4bfb9c3a5c2bbb63ceadff4ec68e7.js": "/coffeeLoverTully/precache-manifest.8fe4bfb9c3a5c2bbb63ceadff4ec68e7.js",
-    "service-worker.js": "/coffeeLoverTully/service-worker.js",
-    "static/css/main.df78a8c9.chunk.css.map": "/coffeeLoverTully/static/css/main.df78a8c9.chunk.css.map",
-    "static/js/2.c60b430a.chunk.js.LICENSE.txt": "/coffeeLoverTully/static/js/2.c60b430a.chunk.js.LICENSE.txt",
-    "static/media/final2020.jpg": "/coffeeLoverTully/static/media/final2020.c82b653c.jpg",
-    "static/media/final20202.jpg": "/coffeeLoverTully/static/media/final20202.7636598d.jpg",
-    "static/media/final20203.jpg": "/coffeeLoverTully/static/media/final20203.31b0730c.jpg",
-    "static/media/final20204.jpg": "/coffeeLoverTully/static/media/final20204.224ba8d0.jpg",
-    "static/media/final20205.jpg": "/coffeeLoverTully/static/media/final20205.aa399a81.jpg",
-    "static/media/final20206.jpg": "/coffeeLoverTully/static/media/final20206.4b04c463.jpg",
-    "static/media/final20207.jpg": "/coffeeLoverTully/static/media/final20207.db52ea3b.jpg",
-    "static/media/logo.png": "/coffeeLoverTully/static/media/logo.9c3ed713.png"
+    "main.css": "/coffeeLoversTully/static/css/main.df78a8c9.chunk.css",
+    "main.js": "/coffeeLoversTully/static/js/main.5ea3df2c.chunk.js",
+    "main.js.map": "/coffeeLoversTully/static/js/main.5ea3df2c.chunk.js.map",
+    "runtime-main.js": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js",
+    "runtime-main.js.map": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js.map",
+    "static/js/2.c60b430a.chunk.js": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js",
+    "static/js/2.c60b430a.chunk.js.map": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js.map",
+    "index.html": "/coffeeLoversTully/index.html",
+    "precache-manifest.914f943d85bcc536b268f2312ac5ac5f.js": "/coffeeLoversTully/precache-manifest.914f943d85bcc536b268f2312ac5ac5f.js",
+    "service-worker.js": "/coffeeLoversTully/service-worker.js",
+    "static/css/main.df78a8c9.chunk.css.map": "/coffeeLoversTully/static/css/main.df78a8c9.chunk.css.map",
+    "static/js/2.c60b430a.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js.LICENSE.txt",
+    "static/media/final2020.jpg": "/coffeeLoversTully/static/media/final2020.c82b653c.jpg",
+    "static/media/final20202.jpg": "/coffeeLoversTully/static/media/final20202.7636598d.jpg",
+    "static/media/final20203.jpg": "/coffeeLoversTully/static/media/final20203.31b0730c.jpg",
+    "static/media/final20204.jpg": "/coffeeLoversTully/static/media/final20204.224ba8d0.jpg",
+    "static/media/final20205.jpg": "/coffeeLoversTully/static/media/final20205.aa399a81.jpg",
+    "static/media/final20206.jpg": "/coffeeLoversTully/static/media/final20206.4b04c463.jpg",
+    "static/media/final20207.jpg": "/coffeeLoversTully/static/media/final20207.db52ea3b.jpg",
+    "static/media/logo.png": "/coffeeLoversTully/static/media/logo.9c3ed713.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9089744b.js",
+    "static/js/runtime-main.777fdd29.js",
     "static/js/2.c60b430a.chunk.js",
     "static/css/main.df78a8c9.chunk.css",
-    "static/js/main.7db306bc.chunk.js"
+    "static/js/main.5ea3df2c.chunk.js"
   ]
 }
