@@ -1,30 +1,33 @@
 {
   "files": {
     "main.css": "/coffeeLoversTully/static/css/main.9b1d58b5.chunk.css",
-    "main.js": "/coffeeLoversTully/static/js/main.8c1418c5.chunk.js",
-    "main.js.map": "/coffeeLoversTully/static/js/main.8c1418c5.chunk.js.map",
+    "main.js": "/coffeeLoversTully/static/js/main.f95d267a.chunk.js",
+    "main.js.map": "/coffeeLoversTully/static/js/main.f95d267a.chunk.js.map",
     "runtime-main.js": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js",
     "runtime-main.js.map": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js.map",
-    "static/js/2.c60b430a.chunk.js": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js",
-    "static/js/2.c60b430a.chunk.js.map": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js.map",
+    "static/js/2.47e03401.chunk.js": "/coffeeLoversTully/static/js/2.47e03401.chunk.js",
+    "static/js/2.47e03401.chunk.js.map": "/coffeeLoversTully/static/js/2.47e03401.chunk.js.map",
     "index.html": "/coffeeLoversTully/index.html",
-    "precache-manifest.a0e437ad562bb548c0561d70339f9051.js": "/coffeeLoversTully/precache-manifest.a0e437ad562bb548c0561d70339f9051.js",
+    "precache-manifest.4bafed09bfb7b066639b417ea8c12897.js": "/coffeeLoversTully/precache-manifest.4bafed09bfb7b066639b417ea8c12897.js",
     "service-worker.js": "/coffeeLoversTully/service-worker.js",
     "static/css/main.9b1d58b5.chunk.css.map": "/coffeeLoversTully/static/css/main.9b1d58b5.chunk.css.map",
-    "static/js/2.c60b430a.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.c60b430a.chunk.js.LICENSE.txt",
+    "static/js/2.47e03401.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.47e03401.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/coffeeLoversTully/static/media/logo.9c3ed713.png",
-    "static/media/lover tully 20210901 website-.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-.776d09d1.jpg",
-    "static/media/lover tully 20210901 website-3.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-3.9f59d1d4.jpg",
-    "static/media/lover tully 20210901 website-4.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-4.96142127.jpg",
-    "static/media/lover tully 20210901 website-5.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-5.74f64759.jpg",
-    "static/media/lover tully 20210901 website-6.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-6.421c2e1c.jpg",
-    "static/media/lover tully 20210901 website-7.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-7.64c2b1e5.jpg",
-    "static/media/lover tully 20210901 website-8.jpg": "/coffeeLoversTully/static/media/lover tully 20210901 website-8.6789ca9f.jpg"
+    "static/media/lover tully 20220121.jpg": "/coffeeLoversTully/static/media/lover tully 20220121.a2bf844a.jpg",
+    "static/media/lover tully 2022012110.jpg": "/coffeeLoversTully/static/media/lover tully 2022012110.baf8b6d5.jpg",
+    "static/media/lover tully 2022012111.jpg": "/coffeeLoversTully/static/media/lover tully 2022012111.12d62323.jpg",
+    "static/media/lover tully 202201213.jpg": "/coffeeLoversTully/static/media/lover tully 202201213.bbdf0dc4.jpg",
+    "static/media/lover tully 202201214.jpg": "/coffeeLoversTully/static/media/lover tully 202201214.4e232b36.jpg",
+    "static/media/lover tully 2022012141.jpg": "/coffeeLoversTully/static/media/lover tully 2022012141.6af6bc71.jpg",
+    "static/media/lover tully 2022012142.jpg": "/coffeeLoversTully/static/media/lover tully 2022012142.87b4005a.jpg",
+    "static/media/lover tully 2022012152.jpg": "/coffeeLoversTully/static/media/lover tully 2022012152.17d7e568.jpg",
+    "static/media/lover tully 202201218.jpg": "/coffeeLoversTully/static/media/lover tully 202201218.95fb1595.jpg",
+    "static/media/lover tully 202201219.jpg": "/coffeeLoversTully/static/media/lover tully 202201219.731d87b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.777fdd29.js",
-    "static/js/2.c60b430a.chunk.js",
+    "static/js/2.47e03401.chunk.js",
     "static/css/main.9b1d58b5.chunk.css",
-    "static/js/main.8c1418c5.chunk.js"
+    "static/js/main.f95d267a.chunk.js"
   ]
 }
