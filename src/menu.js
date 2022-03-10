@@ -5,6 +5,8 @@ import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles((theme) => ({
   img: {
     margin: 0,
+    marginLeft: 5,
+    marginRight: 5,
     display: "flex",
     alignItems: "center",
     backgroundColor: "black",
