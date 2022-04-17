@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bdfaa05fc8164c593493695e63ae00e",
+    "revision": "ef3128121de44a211193617bb4147547",
     "url": "/coffeeLoversTully/index.html"
   },
   {
-    "revision": "e029fbc88eddc6946db5",
+    "revision": "af95694ad4842aa47ae4",
     "url": "/coffeeLoversTully/static/css/main.47d73d36.chunk.css"
   },
   {
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoversTully/static/js/2.76fb8172.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e029fbc88eddc6946db5",
-    "url": "/coffeeLoversTully/static/js/main.959a8ce5.chunk.js"
+    "revision": "af95694ad4842aa47ae4",
+    "url": "/coffeeLoversTully/static/js/main.90bf7673.chunk.js"
   },
   {
     "revision": "8ece0a0ed64fe85f3e35",
     "url": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js"
+  },
+  {
+    "revision": "5f69007061bccdfb810eebf1aa23acdc",
+    "url": "/coffeeLoversTully/static/media/04152022.5f690070.jpg"
+  },
+  {
+    "revision": "bde9cb941dd81032fe07a216ed3d7449",
+    "url": "/coffeeLoversTully/static/media/041520222.bde9cb94.jpg"
   },
   {
     "revision": "9c3ed713ad9b38877fa5abfb3c302a6f",
@@ -72,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoversTully/static/media/lover tully 0309292222.12ccabf3.jpg"
   },
   {
-    "revision": "6ede0d5e734acd75689b93e167fd677a",
-    "url": "/coffeeLoversTully/static/media/lover tully 20220121.6ede0d5e.jpg"
-  },
-  {
     "revision": "b5103f287adbbf4e8cca96052bc06a91",
     "url": "/coffeeLoversTully/static/media/lover tully 202201212.b5103f28.jpg"
   },
@@ -88,11 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoversTully/static/media/lover tully 202201214.e1fde86c.jpg"
   },
   {
-    "revision": "b51df0eded4c743f9a03980791edd630",
-    "url": "/coffeeLoversTully/static/media/lover tully 202201215.b51df0ed.jpg"
-  },
-  {
-    "revision": "fbfb167b7feca4365117ae1c4aaf4d19",
-    "url": "/coffeeLoversTully/static/media/lover tully 202201216.fbfb167b.jpg"
+    "revision": "a9b1b0046e2fcc30b92016ccf29e0632",
+    "url": "/coffeeLoversTully/static/media/lover tully 202201215.a9b1b004.jpg"
   }
 ]);
