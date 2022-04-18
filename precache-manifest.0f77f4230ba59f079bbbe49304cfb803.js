@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3746658fe9be40c036c84e8996272b58",
+    "revision": "d38857142b39d4f3239ed524919c5255",
     "url": "/coffeeLoversTully/index.html"
   },
   {
-    "revision": "af95694ad4842aa47ae4",
+    "revision": "360079b58142c17371d8",
     "url": "/coffeeLoversTully/static/css/main.47d73d36.chunk.css"
   },
   {
-    "revision": "1f4350c3d2145fbcf1e3",
-    "url": "/coffeeLoversTully/static/js/2.76fb8172.chunk.js"
+    "revision": "cc2c3c4d901a0728c00c",
+    "url": "/coffeeLoversTully/static/js/2.12810bf8.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/coffeeLoversTully/static/js/2.76fb8172.chunk.js.LICENSE.txt"
+    "url": "/coffeeLoversTully/static/js/2.12810bf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af95694ad4842aa47ae4",
-    "url": "/coffeeLoversTully/static/js/main.90bf7673.chunk.js"
+    "revision": "360079b58142c17371d8",
+    "url": "/coffeeLoversTully/static/js/main.01ce8cbc.chunk.js"
   },
   {
     "revision": "8ece0a0ed64fe85f3e35",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f69007061bccdfb810eebf1aa23acdc",
     "url": "/coffeeLoversTully/static/media/04152022.5f690070.jpg"
-  },
-  {
-    "revision": "bde9cb941dd81032fe07a216ed3d7449",
-    "url": "/coffeeLoversTully/static/media/041520222.bde9cb94.jpg"
   },
   {
     "revision": "9c3ed713ad9b38877fa5abfb3c302a6f",
@@ -72,14 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoversTully/static/media/lover tully 0309292220.e48d3de5.jpg"
   },
   {
-    "revision": "ca36e126434e23d61ecbaf3239a13745",
-    "url": "/coffeeLoversTully/static/media/lover tully 0309292221.ca36e126.jpg"
-  },
-  {
-    "revision": "12ccabf329df99dd433ee02fec12f090",
-    "url": "/coffeeLoversTully/static/media/lover tully 0309292222.12ccabf3.jpg"
-  },
-  {
     "revision": "b5103f287adbbf4e8cca96052bc06a91",
     "url": "/coffeeLoversTully/static/media/lover tully 202201212.b5103f28.jpg"
   },
@@ -94,5 +82,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9b1b0046e2fcc30b92016ccf29e0632",
     "url": "/coffeeLoversTully/static/media/lover tully 202201215.a9b1b004.jpg"
+  },
+  {
+    "revision": "0482b93173df833bd47b4a328912edf7",
+    "url": "/coffeeLoversTully/static/media/low 10percent.0482b931.jpg"
   }
 ]);
