@@ -1,38 +1,25 @@
 {
   "files": {
-    "main.css": "/coffeeLoversTully/static/css/main.47d73d36.chunk.css",
-    "main.js": "/coffeeLoversTully/static/js/main.01ce8cbc.chunk.js",
-    "main.js.map": "/coffeeLoversTully/static/js/main.01ce8cbc.chunk.js.map",
+    "main.css": "/coffeeLoversTully/static/css/main.cd7ecf27.chunk.css",
+    "main.js": "/coffeeLoversTully/static/js/main.abe609e4.chunk.js",
     "runtime-main.js": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js",
-    "runtime-main.js.map": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js.map",
-    "static/js/2.12810bf8.chunk.js": "/coffeeLoversTully/static/js/2.12810bf8.chunk.js",
-    "static/js/2.12810bf8.chunk.js.map": "/coffeeLoversTully/static/js/2.12810bf8.chunk.js.map",
+    "static/js/2.5d9a3c7b.chunk.js": "/coffeeLoversTully/static/js/2.5d9a3c7b.chunk.js",
     "index.html": "/coffeeLoversTully/index.html",
-    "precache-manifest.312fe1ff3024e7b961a49f994fe0f51b.js": "/coffeeLoversTully/precache-manifest.312fe1ff3024e7b961a49f994fe0f51b.js",
+    "precache-manifest.461fdb9b1ae323765ad885b18bb127f1.js": "/coffeeLoversTully/precache-manifest.461fdb9b1ae323765ad885b18bb127f1.js",
     "service-worker.js": "/coffeeLoversTully/service-worker.js",
-    "static/css/main.47d73d36.chunk.css.map": "/coffeeLoversTully/static/css/main.47d73d36.chunk.css.map",
-    "static/js/2.12810bf8.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.12810bf8.chunk.js.LICENSE.txt",
-    "static/media/04152022.jpg": "/coffeeLoversTully/static/media/04152022.5f690070.jpg",
+    "static/js/2.5d9a3c7b.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.5d9a3c7b.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/coffeeLoversTully/static/media/logo.9c3ed713.png",
-    "static/media/lover tully 0309292212.jpg": "/coffeeLoversTully/static/media/lover tully 0309292212.67416608.jpg",
-    "static/media/lover tully 0309292213.jpg": "/coffeeLoversTully/static/media/lover tully 0309292213.197150fa.jpg",
-    "static/media/lover tully 0309292214.jpg": "/coffeeLoversTully/static/media/lover tully 0309292214.ef7d937b.jpg",
-    "static/media/lover tully 0309292215.jpg": "/coffeeLoversTully/static/media/lover tully 0309292215.0c982b05.jpg",
-    "static/media/lover tully 0309292216.jpg": "/coffeeLoversTully/static/media/lover tully 0309292216.da4e9d90.jpg",
-    "static/media/lover tully 0309292217.jpg": "/coffeeLoversTully/static/media/lover tully 0309292217.51354be8.jpg",
-    "static/media/lover tully 0309292218.jpg": "/coffeeLoversTully/static/media/lover tully 0309292218.c7b137bf.jpg",
-    "static/media/lover tully 0309292219.jpg": "/coffeeLoversTully/static/media/lover tully 0309292219.ccf33c25.jpg",
-    "static/media/lover tully 0309292220.jpg": "/coffeeLoversTully/static/media/lover tully 0309292220.e48d3de5.jpg",
-    "static/media/lover tully 202201212.jpg": "/coffeeLoversTully/static/media/lover tully 202201212.b5103f28.jpg",
-    "static/media/lover tully 202201213.jpg": "/coffeeLoversTully/static/media/lover tully 202201213.244f279f.jpg",
-    "static/media/lover tully 202201214.jpg": "/coffeeLoversTully/static/media/lover tully 202201214.e1fde86c.jpg",
-    "static/media/lover tully 202201215.jpg": "/coffeeLoversTully/static/media/lover tully 202201215.a9b1b004.jpg",
-    "static/media/low 10percent.jpg": "/coffeeLoversTully/static/media/low 10percent.0482b931.jpg"
+    "static/media/lover tully 20220121.jpg": "/coffeeLoversTully/static/media/lover tully 20220121.c6609dfc.jpg",
+    "static/media/lover tully 20220724.jpg": "/coffeeLoversTully/static/media/lover tully 20220724.64a30785.jpg",
+    "static/media/lover tully 202207243.jpg": "/coffeeLoversTully/static/media/lover tully 202207243.6416cd45.jpg",
+    "static/media/lover tully 202207244.jpg": "/coffeeLoversTully/static/media/lover tully 202207244.b5c5d19f.jpg",
+    "static/media/lover tully 202207245.jpg": "/coffeeLoversTully/static/media/lover tully 202207245.ebb77b6b.jpg",
+    "static/media/lover tully 202207246.jpg": "/coffeeLoversTully/static/media/lover tully 202207246.a1987e73.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.777fdd29.js",
-    "static/js/2.12810bf8.chunk.js",
-    "static/css/main.47d73d36.chunk.css",
-    "static/js/main.01ce8cbc.chunk.js"
+    "static/js/2.5d9a3c7b.chunk.js",
+    "static/css/main.cd7ecf27.chunk.css",
+    "static/js/main.abe609e4.chunk.js"
   ]
 }
