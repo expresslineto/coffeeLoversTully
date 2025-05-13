@@ -2,10 +2,11 @@ import page1 from "./tully/lover tully 2025-05 v2.jpg";
 import page2 from "./tully/lover tully 2025-05 v22.jpg";
 import page3 from "./tully/lover tully 2025-05 v23.jpg";
 import page4 from "./tully/lover tully 2025-05 v24.jpg";
+import page5 from "./tully/lover tully 2025-05 v25.jpg";
 
-import page5 from "./tully/lover tully 2025-05 v26.jpg";
-import page6 from "./tully/lover tully 2025-05.jpg";
-// import page8 from "./tully/lover aborn 2023-03-0312.jpg";
+import page6 from "./tully/lover tully 2025-05 v26.jpg";
+import page7 from "./tully/lover tully 2025-05.jpg";
+
 import page9 from "./tully/lover tully 2025-052.jpg";
 // import page10 from "./tully/lover aborn 2023-03-0314.jpg";
 import page11 from "./tully/lover tully 2025-053.jpg";
@@ -44,9 +45,9 @@ const listMenu = [{
         page: "6",
         itemsImage: page6,
     },
-    // {   page: "7",
-    //     itemsImage: page7,
-    // },
+    {   page: "7",
+        itemsImage: page7,
+    },
     // { page: "8", itemsImage: page8 },
     { page: "9", itemsImage: page9 },
     // { page: "10", itemsImage: page10 },
