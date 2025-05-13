@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58024485c233d5f7ea05b2ee3c90dd8e",
+    "revision": "91d652f1c597f71c99efb28ee2f39826",
     "url": "/coffeeLoversTully/index.html"
   },
   {
-    "revision": "0a289a56279350839073",
+    "revision": "ddb12d6013b2b5fdce6d",
     "url": "/coffeeLoversTully/static/css/main.58c366d8.chunk.css"
   },
   {
-    "revision": "4df51ac18fdba9536f1b",
-    "url": "/coffeeLoversTully/static/js/2.d1f6e96f.chunk.js"
+    "revision": "b94095835c4fba29c08c",
+    "url": "/coffeeLoversTully/static/js/2.520f8334.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/coffeeLoversTully/static/js/2.d1f6e96f.chunk.js.LICENSE.txt"
+    "url": "/coffeeLoversTully/static/js/2.520f8334.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a289a56279350839073",
-    "url": "/coffeeLoversTully/static/js/main.259b5faf.chunk.js"
+    "revision": "ddb12d6013b2b5fdce6d",
+    "url": "/coffeeLoversTully/static/js/main.9988846e.chunk.js"
   },
   {
     "revision": "8ece0a0ed64fe85f3e35",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05a438149c400b8b5a2e94c368c8bc3a",
     "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v24.05a43814.jpg"
+  },
+  {
+    "revision": "dd5a34e4bbadb4c094a5b1a137893c89",
+    "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v25.dd5a34e4.jpg"
   },
   {
     "revision": "4981b6fddb30fe4f7396a43561c36e40",

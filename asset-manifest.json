@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/coffeeLoversTully/static/css/main.58c366d8.chunk.css",
-    "main.js": "/coffeeLoversTully/static/js/main.259b5faf.chunk.js",
+    "main.js": "/coffeeLoversTully/static/js/main.9988846e.chunk.js",
     "runtime-main.js": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js",
-    "static/js/2.d1f6e96f.chunk.js": "/coffeeLoversTully/static/js/2.d1f6e96f.chunk.js",
+    "static/js/2.520f8334.chunk.js": "/coffeeLoversTully/static/js/2.520f8334.chunk.js",
     "index.html": "/coffeeLoversTully/index.html",
-    "precache-manifest.9a38ca84e0f8d88c31b100f76e6a725b.js": "/coffeeLoversTully/precache-manifest.9a38ca84e0f8d88c31b100f76e6a725b.js",
+    "precache-manifest.94a5b124d70b71eecdc5d4142db66b5c.js": "/coffeeLoversTully/precache-manifest.94a5b124d70b71eecdc5d4142db66b5c.js",
     "service-worker.js": "/coffeeLoversTully/service-worker.js",
-    "static/js/2.d1f6e96f.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.d1f6e96f.chunk.js.LICENSE.txt",
+    "static/js/2.520f8334.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.520f8334.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/coffeeLoversTully/static/media/logo.9c3ed713.png",
     "static/media/lover tully 2025-05 v2.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v2.7346adff.jpg",
     "static/media/lover tully 2025-05 v22.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v22.dcf8de52.jpg",
     "static/media/lover tully 2025-05 v23.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v23.3209338f.jpg",
     "static/media/lover tully 2025-05 v24.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v24.05a43814.jpg",
+    "static/media/lover tully 2025-05 v25.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v25.dd5a34e4.jpg",
     "static/media/lover tully 2025-05 v26.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05 v26.4981b6fd.jpg",
     "static/media/lover tully 2025-05.jpg": "/coffeeLoversTully/static/media/lover tully 2025-05.d228d428.jpg",
     "static/media/lover tully 2025-0512.jpg": "/coffeeLoversTully/static/media/lover tully 2025-0512.827e0207.jpg",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.777fdd29.js",
-    "static/js/2.d1f6e96f.chunk.js",
+    "static/js/2.520f8334.chunk.js",
     "static/css/main.58c366d8.chunk.css",
-    "static/js/main.259b5faf.chunk.js"
+    "static/js/main.9988846e.chunk.js"
   ]
 }
