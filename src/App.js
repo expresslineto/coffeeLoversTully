@@ -42,10 +42,12 @@ function App() {
           </Grid>
         </Grid>
       </Paper>
-
+      
       {list.map((item, index) => {
         return <MenuForm id={index} itemsImage={item.itemsImage} />;
       })}
+
+
     </div>
   );
 }
