@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/coffeeLoversTully/static/css/main.cd7ecf27.chunk.css",
-    "main.js": "/coffeeLoversTully/static/js/main.85da44d9.chunk.js",
+    "main.js": "/coffeeLoversTully/static/js/main.728b283e.chunk.js",
     "runtime-main.js": "/coffeeLoversTully/static/js/runtime-main.777fdd29.js",
-    "static/js/2.c922a360.chunk.js": "/coffeeLoversTully/static/js/2.c922a360.chunk.js",
+    "static/js/2.a477bdcd.chunk.js": "/coffeeLoversTully/static/js/2.a477bdcd.chunk.js",
     "index.html": "/coffeeLoversTully/index.html",
-    "precache-manifest.6d0bbdd50dc8ba92937d19598756a375.js": "/coffeeLoversTully/precache-manifest.6d0bbdd50dc8ba92937d19598756a375.js",
+    "precache-manifest.ad49fb82b83e66955d5a24a9aae9606f.js": "/coffeeLoversTully/precache-manifest.ad49fb82b83e66955d5a24a9aae9606f.js",
     "service-worker.js": "/coffeeLoversTully/service-worker.js",
-    "static/js/2.c922a360.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.c922a360.chunk.js.LICENSE.txt",
+    "static/js/2.a477bdcd.chunk.js.LICENSE.txt": "/coffeeLoversTully/static/js/2.a477bdcd.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/coffeeLoversTully/static/media/logo.9c3ed713.png",
     "static/media/lover tully 2024-12-30.jpg": "/coffeeLoversTully/static/media/lover tully 2024-12-30.ad53e68f.jpg",
     "static/media/lover tully 2024-12-3010.jpg": "/coffeeLoversTully/static/media/lover tully 2024-12-3010.552bc0f1.jpg",
@@ -55,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.777fdd29.js",
-    "static/js/2.c922a360.chunk.js",
+    "static/js/2.a477bdcd.chunk.js",
     "static/css/main.cd7ecf27.chunk.css",
-    "static/js/main.85da44d9.chunk.js"
+    "static/js/main.728b283e.chunk.js"
   ]
 }
