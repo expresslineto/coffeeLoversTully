@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "930c9658c5e1b9a84224babe08893915",
+    "revision": "807ad2640f01de20889b0f25526e9d59",
     "url": "/coffeeLoversTully/index.html"
   },
   {
-    "revision": "82597949a080597736b7",
-    "url": "/coffeeLoversTully/static/css/main.cd7ecf27.chunk.css"
+    "revision": "c2c0a8f16662bdc8dd5c",
+    "url": "/coffeeLoversTully/static/css/main.58c366d8.chunk.css"
   },
   {
     "revision": "2333b616857da2d8032e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoversTully/static/js/2.ecfe9a63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82597949a080597736b7",
-    "url": "/coffeeLoversTully/static/js/main.c6a1d2da.chunk.js"
+    "revision": "c2c0a8f16662bdc8dd5c",
+    "url": "/coffeeLoversTully/static/js/main.41ceb9dd.chunk.js"
   },
   {
     "revision": "8ece0a0ed64fe85f3e35",
@@ -34,22 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcf8de5278e3653253854998ea0409b6",
     "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v22.dcf8de52.jpg"
-  },
-  {
-    "revision": "3209338f151544a3f5195c1680339919",
-    "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v23.3209338f.jpg"
-  },
-  {
-    "revision": "05a438149c400b8b5a2e94c368c8bc3a",
-    "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v24.05a43814.jpg"
-  },
-  {
-    "revision": "dd5a34e4bbadb4c094a5b1a137893c89",
-    "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v25.dd5a34e4.jpg"
-  },
-  {
-    "revision": "4981b6fddb30fe4f7396a43561c36e40",
-    "url": "/coffeeLoversTully/static/media/lover tully 2025-05 v26.4981b6fd.jpg"
   },
   {
     "revision": "d228d4286499c202e0aebf47b579ed91",
@@ -86,5 +70,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e36461013dba3dab833283ad597009ab",
     "url": "/coffeeLoversTully/static/media/lover tully 2025-055.e3646101.jpg"
+  },
+  {
+    "revision": "ee42fdfbb4ab0da013a3622c5c9547ea",
+    "url": "/coffeeLoversTully/static/media/tully website.ee42fdfb.jpg"
+  },
+  {
+    "revision": "c2a5f108c7568efeefc28c683ed8893a",
+    "url": "/coffeeLoversTully/static/media/tully website2.c2a5f108.jpg"
+  },
+  {
+    "revision": "6ae4736edc49c75450291d3eeb2c97b8",
+    "url": "/coffeeLoversTully/static/media/tully website3.6ae4736e.jpg"
+  },
+  {
+    "revision": "c852d7ea06b69de0e4f98ec0390ac251",
+    "url": "/coffeeLoversTully/static/media/tully website4.c852d7ea.jpg"
   }
 ]);
